@@ -1,0 +1,9 @@
+[submodule "calculator"]
+	path = calculator
+	url = git@github.com:nazzal5448/calculator.git
+[submodule "randmeme"]
+	path = randmeme
+	url = git@github.com:nazzal5448/randmeme.git
+[submodule "konnectify"]
+	path = konnectify
+	url = git@github.com:nazzal5448/konnectify.git
